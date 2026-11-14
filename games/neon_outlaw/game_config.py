@@ -353,4 +353,22 @@ class GameConfig(Config):
                     Distribution(criteria="basegame", quota=0.5, conditions=basegame_condition),
                 ],
             ),
+            BetMode(
+            name="max_or_nothing",
+            cost=1000.0,
+            rtp=self.rtp,
+            max_win=mode_maxwins["bonus"],
+            auto_close_disabled=False,
+            is_feature=False,
+            is_buybonus=True,
+            distributions=[
+                Distribution(criteria="wincap", quota=0.00965, win_criteria=mode_maxwins["bonus"], conditions=wincap_condition),
+                Distribution(criteria="0", quota=0.99035, win_criteria=0.0, conditions=zerowin_condition),
+            ],
+            ),
+            
+
+
+
+
         ]

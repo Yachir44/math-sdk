@@ -21,13 +21,14 @@ if __name__ == "__main__":
     # so only "ante" is simulated and optimised. Their published files must be in
     # library/publish_files for generate_configs, the analysis and the format checks.
     num_sim_args = {
-        "base": int(1e5),
-        "bonus": int(1e5),
-        "ante": int(1e5),
+        # "base": int(1e5),
+        # "bonus": int(1e5),
+        # "ante": int(1e5),
+        "max_or_nothing": int(1e5),
     }
 
     run_conditions = {
-        "run_sims": False,
+        "run_sims": True,
         "run_optimization": True,
         "run_analysis": False,
         "run_format_checks": False,
