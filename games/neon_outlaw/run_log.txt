@@ -2,18 +2,18 @@ nohup: ignoring input
 
 Creating books...
 
-Creating books for neon_outlaw in bonus
+Creating books for neon_outlaw in base
 Batch 1 of 4
 Started thread 0
 Started thread 1
 Started thread 2
 Started thread 3
 Started thread 4
-Thread 1 finished with 105.367 RTP. [baseGame: 0.002, freeGame: 105.365]
-Thread 2 finished with 99.145 RTP. [baseGame: 0.002, freeGame: 99.143]
-Thread 0 finished with 97.356 RTP. [baseGame: 0.002, freeGame: 97.354]
-Thread 3 finished with 100.803 RTP. [baseGame: 0.002, freeGame: 100.802]
-Thread 4 finished with 96.553 RTP. [baseGame: 0.002, freeGame: 96.551]
+Thread 0 finished with 940.725 RTP. [baseGame: 0.802, freeGame: 939.923]
+Thread 3 finished with 964.702 RTP. [baseGame: 0.781, freeGame: 963.921]
+Thread 1 finished with 1021.325 RTP. [baseGame: 0.773, freeGame: 1020.552]
+Thread 2 finished with 1060.838 RTP. [baseGame: 0.865, freeGame: 1059.973]
+Thread 4 finished with 1154.899 RTP. [baseGame: 0.796, freeGame: 1154.103]
 All threads are online.
 Finished joining threads.
 Batch 2 of 4
@@ -22,11 +22,11 @@ Started thread 1
 Started thread 2
 Started thread 3
 Started thread 4
-Thread 1 finished with 102.01 RTP. [baseGame: 0.002, freeGame: 102.008]
-Thread 4 finished with 103.889 RTP. [baseGame: 0.002, freeGame: 103.887]
-Thread 3 finished with 103.888 RTP. [baseGame: 0.002, freeGame: 103.886]
-Thread 2 finished with 103.827 RTP. [baseGame: 0.002, freeGame: 103.825]
-Thread 0 finished with 102.728 RTP. [baseGame: 0.002, freeGame: 102.726]
+Thread 0 finished with 973.687 RTP. [baseGame: 0.804, freeGame: 972.883]
+Thread 1 finished with 1093.76 RTP. [baseGame: 0.855, freeGame: 1092.905]
+Thread 2 finished with 1050.436 RTP. [baseGame: 0.835, freeGame: 1049.601]
+Thread 3 finished with 1073.944 RTP. [baseGame: 0.856, freeGame: 1073.088]
+Thread 4 finished with 1124.961 RTP. [baseGame: 0.78, freeGame: 1124.182]
 All threads are online.
 Finished joining threads.
 Batch 3 of 4
@@ -35,11 +35,11 @@ Started thread 1
 Started thread 2
 Started thread 3
 Started thread 4
-Thread 0 finished with 101.636 RTP. [baseGame: 0.002, freeGame: 101.634]
-Thread 1 finished with 103.402 RTP. [baseGame: 0.002, freeGame: 103.4]
-Thread 2 finished with 104.1 RTP. [baseGame: 0.002, freeGame: 104.098]
-Thread 4 finished with 101.569 RTP. [baseGame: 0.002, freeGame: 101.567]
-Thread 3 finished with 101.453 RTP. [baseGame: 0.002, freeGame: 101.45]
+Thread 2 finished with 959.851 RTP. [baseGame: 0.834, freeGame: 959.017]
+Thread 0 finished with 1033.814 RTP. [baseGame: 0.803, freeGame: 1033.011]
+Thread 3 finished with 1014.175 RTP. [baseGame: 0.852, freeGame: 1013.323]
+Thread 4 finished with 968.942 RTP. [baseGame: 0.818, freeGame: 968.124]
+Thread 1 finished with 1238.416 RTP. [baseGame: 0.808, freeGame: 1237.608]
 All threads are online.
 Finished joining threads.
 Batch 4 of 4
@@ -48,204 +48,24 @@ Started thread 1
 Started thread 2
 Started thread 3
 Started thread 4
-Thread 4 finished with 101.462 RTP. [baseGame: 0.002, freeGame: 101.46]
-Thread 2 finished with 99.329 RTP. [baseGame: 0.002, freeGame: 99.327]
-Thread 1 finished with 100.256 RTP. [baseGame: 0.002, freeGame: 100.254]
-Thread 3 finished with 101.255 RTP. [baseGame: 0.002, freeGame: 101.253]
-Thread 0 finished with 100.756 RTP. [baseGame: 0.002, freeGame: 100.754]
+Thread 3 finished with 921.624 RTP. [baseGame: 0.822, freeGame: 920.802]
+Thread 0 finished with 895.637 RTP. [baseGame: 0.775, freeGame: 894.861]
+Thread 2 finished with 1108.11 RTP. [baseGame: 0.802, freeGame: 1107.308]
+Thread 4 finished with 1252.486 RTP. [baseGame: 0.854, freeGame: 1251.631]
+Thread 1 finished with 1061.999 RTP. [baseGame: 0.831, freeGame: 1061.168]
 All threads are online.
 Finished joining threads.
-Saving books for  neon_outlaw in bonus
-Saving force files for neon_outlaw in bonus
-Saving LUTs for neon_outlaw in bonus
-Wrote verification file: /workspaces/math-sdk/games/neon_outlaw/library/configs/books_bonus.verification.json
+Saving books for  neon_outlaw in base
+Saving force files for neon_outlaw in base
+Saving LUTs for neon_outlaw in base
+Wrote verification file: /workspaces/math-sdk/games/neon_outlaw/library/configs/books_base.verification.json
 
-Creating books for neon_outlaw in ante
-Batch 1 of 4
-Started thread 0
-Started thread 1
-Started thread 2
-Started thread 3
-Started thread 4
-Thread 2 finished with 668.642 RTP. [baseGame: 0.296, freeGame: 668.346]
-Thread 1 finished with 659.666 RTP. [baseGame: 0.264, freeGame: 659.402]
-Thread 3 finished with 689.353 RTP. [baseGame: 0.267, freeGame: 689.086]
-Thread 0 finished with 601.269 RTP. [baseGame: 0.275, freeGame: 600.994]
-Thread 4 finished with 699.939 RTP. [baseGame: 0.274, freeGame: 699.665]
-All threads are online.
-Finished joining threads.
-Batch 2 of 4
-Started thread 0
-Started thread 1
-Started thread 2
-Started thread 3
-Started thread 4
-Thread 0 finished with 651.863 RTP. [baseGame: 0.279, freeGame: 651.584]
-Thread 3 finished with 657.099 RTP. [baseGame: 0.295, freeGame: 656.804]
-Thread 2 finished with 616.518 RTP. [baseGame: 0.286, freeGame: 616.232]
-Thread 4 finished with 683.905 RTP. [baseGame: 0.264, freeGame: 683.641]
-Thread 1 finished with 691.338 RTP. [baseGame: 0.292, freeGame: 691.046]
-All threads are online.
-Finished joining threads.
-Batch 3 of 4
-Started thread 0
-Started thread 1
-Started thread 2
-Started thread 3
-Started thread 4
-Thread 3 finished with 604.194 RTP. [baseGame: 0.289, freeGame: 603.905]
-Thread 2 finished with 627.663 RTP. [baseGame: 0.286, freeGame: 627.377]
-Thread 1 finished with 699.953 RTP. [baseGame: 0.277, freeGame: 699.675]
-Thread 4 finished with 607.085 RTP. [baseGame: 0.278, freeGame: 606.807]
-Thread 0 finished with 683.717 RTP. [baseGame: 0.274, freeGame: 683.443]
-All threads are online.
-Finished joining threads.
-Batch 4 of 4
-Started thread 0
-Started thread 1
-Started thread 2
-Started thread 3
-Started thread 4
-Thread 3 finished with 614.015 RTP. [baseGame: 0.283, freeGame: 613.732]
-Thread 0 finished with 602.485 RTP. [baseGame: 0.266, freeGame: 602.219]
-Thread 2 finished with 624.871 RTP. [baseGame: 0.276, freeGame: 624.595]
-Thread 1 finished with 643.686 RTP. [baseGame: 0.285, freeGame: 643.401]
-Thread 4 finished with 775.131 RTP. [baseGame: 0.291, freeGame: 774.84]
-All threads are online.
-Finished joining threads.
-Saving books for  neon_outlaw in ante
-Saving force files for neon_outlaw in ante
-Saving LUTs for neon_outlaw in ante
-Wrote verification file: /workspaces/math-sdk/games/neon_outlaw/library/configs/books_ante.verification.json
+Finished creating books in 69.85500001907349 seconds.
 
-Finished creating books in 507.12667989730835 seconds.
-
-Running optimization for mode: bonus
-Running Simulations: neon_outlaw - Mode: bonus
-../games/neon_outlaw/library/forces/force_record_bonus.json
-json force path: ../games/neon_outlaw/library/forces/force_record_bonus.json
-
-Creating wincap Fence
-
-
-Creating freegame Fence
-
-Creating Initial Random Distributions...
-Creating Initial Random Distributions...
-Creating Initial Random Distributions...
-Creating Initial Random Distributions...
-Creating Initial Random Distributions...
-Creating Initial Random Distributions...
-Creating Initial Random Distributions...
-Creating Initial Random Distributions...
-Creating Initial Random Distributions...
-Creating Initial Random Distributions...
-Creating Initial Random Distributions...
-Creating Initial Random Distributions...
-Creating Initial Random Distributions...
-Creating Initial Random Distributions...
-Creating Initial Random Distributions...
-Creating Initial Random Distributions...
-Creating Initial Random Distributions...
-Creating Initial Random Distributions...
-Creating Initial Random Distributions...
-Creating Initial Random Distributions...
-Combining Criteria Distributions....
-Combining Criteria Distributions....
-Combining Criteria Distributions....
-Combining Criteria Distributions....
-Combining Criteria Distributions....
-Combining Criteria Distributions....
-Combining Criteria Distributions....
-Combining Criteria Distributions....
-Combining Criteria Distributions....
-Combining Criteria Distributions....
-Combining Criteria Distributions....
-Combining Criteria Distributions....
-Combining Criteria Distributions....
-Combining Criteria Distributions....
-Combining Criteria Distributions....
-Combining Criteria Distributions....
-Combining Criteria Distributions....
-Combining Criteria Distributions....
-Combining Criteria Distributions....
-Combining Criteria Distributions....
-Creating Initial Distributions
-Creating Initial Distributions
-Creating Initial Distributions
-Creating Initial Distributions
-Creating Initial Distributions
-Creating Initial Distributions
-Creating Initial Distributions
-Creating Initial Distributions
-Creating Initial Distributions
-Creating Initial Distributions
-Creating Initial Distributions
-Creating Initial Distributions
-Creating Initial Distributions
-Creating Initial Distributions
-Creating Initial Distributions
-Creating Initial Distributions
-Creating Initial Distributions
-Creating Initial Distributions
-Creating Initial Distributions
-Creating Initial Distributions
-Thread 0: 50% done
-Thread 15: 50% done
-Thread 12: 50% done
-Thread 7: 50% done
-Thread 8: 50% done
-Thread 11: 50% done
-Thread 6: 50% done
-Thread 18: 50% done
-Thread 2: 50% done
-Thread 17: 50% done
-Thread 9: 50% done
-Thread 19: 50% done
-Thread 16: 50% done
-Thread 14: 50% done
-Thread 10: 50% done
-Thread 13: 50% done
-Thread 4: 50% done
-Thread 1: 50% done
-Thread 5: 50% done
-Thread 3: 50% done
-Thread 11: 100% done
-Thread 0: 100% done
-Thread 8: 100% done
-Thread 10: 100% done
-Thread 6: 100% done
-Thread 5: 100% done
-Thread 17: 100% done
-Thread 13: 100% done
-Thread 12: 100% done
-Thread 15: 100% done
-Thread 7: 100% done
-Thread 2: 100% done
-Thread 4: 100% done
-Thread 19: 100% done
-Thread 16: 100% done
-Thread 1: 100% done
-Thread 14: 100% done
-Thread 9: 100% done
-Thread 18: 100% done
-Thread 3: 100% done
-Printing info for Distribution 1
-Printing info for Distribution 6
-Printing info for Distribution 2
-Printing info for Distribution 7
-Printing info for Distribution 3
-Printing info for Distribution 8
-Printing info for Distribution 9
-Printing info for Distribution 4
-Printing info for Distribution 5
-Printing info for Distribution 10
-time taken 2426ms
-
-Running optimization for mode: ante
-Running Simulations: neon_outlaw - Mode: ante
-../games/neon_outlaw/library/forces/force_record_ante.json
-json force path: ../games/neon_outlaw/library/forces/force_record_ante.json
+Running optimization for mode: base
+Running Simulations: neon_outlaw - Mode: base
+../games/neon_outlaw/library/forces/force_record_base.json
+json force path: ../games/neon_outlaw/library/forces/force_record_base.json
 
 Creating wincap Fence
 
@@ -306,9 +126,6 @@ Creating Initial Random Distributions...
 Creating Initial Random Distributions...
 Creating Initial Random Distributions...
 Creating Initial Random Distributions...
-Combining Criteria Distributions....
-Creating Initial Random Distributions...
-Combining Criteria Distributions....
 Creating Initial Random Distributions...
 Creating Initial Random Distributions...
 Creating Initial Random Distributions...
@@ -318,10 +135,12 @@ Creating Initial Random Distributions...
 Creating Initial Random Distributions...
 Creating Initial Random Distributions...
 Creating Initial Random Distributions...
+Combining Criteria Distributions....
 Creating Initial Random Distributions...
 Creating Initial Random Distributions...
 Combining Criteria Distributions....
 Combining Criteria Distributions....
+Creating Initial Random Distributions...
 Combining Criteria Distributions....
 Combining Criteria Distributions....
 Combining Criteria Distributions....
@@ -338,6 +157,7 @@ Combining Criteria Distributions....
 Combining Criteria Distributions....
 Combining Criteria Distributions....
 Combining Criteria Distributions....
+Combining Criteria Distributions....
 Creating Initial Distributions
 Creating Initial Distributions
 Creating Initial Distributions
@@ -358,55 +178,55 @@ Creating Initial Distributions
 Creating Initial Distributions
 Creating Initial Distributions
 Creating Initial Distributions
-Thread 1: 50% done
-Thread 17: 50% done
-Thread 13: 50% done
-Thread 10: 50% done
-Thread 16: 50% done
-Thread 9: 50% done
-Thread 18: 50% done
-Thread 0: 50% done
-Thread 6: 50% done
 Thread 5: 50% done
-Thread 4: 50% done
 Thread 3: 50% done
-Thread 11: 50% done
-Thread 7: 50% done
-Thread 15: 50% done
-Thread 8: 50% done
+Thread 16: 50% done
+Thread 18: 50% done
 Thread 14: 50% done
-Thread 19: 50% done
 Thread 12: 50% done
+Thread 1: 50% done
+Thread 15: 50% done
+Thread 7: 50% done
+Thread 19: 50% done
+Thread 17: 50% done
 Thread 2: 50% done
+Thread 13: 50% done
+Thread 0: 50% done
+Thread 11: 50% done
+Thread 10: 50% done
+Thread 9: 50% done
+Thread 4: 50% done
+Thread 8: 50% done
+Thread 6: 50% done
+Thread 14: 100% done
 Thread 16: 100% done
 Thread 1: 100% done
-Thread 7: 100% done
-Thread 8: 100% done
-Thread 0: 100% done
-Thread 9: 100% done
-Thread 4: 100% done
-Thread 11: 100% done
-Thread 10: 100% done
-Thread 13: 100% done
-Thread 2: 100% done
-Thread 18: 100% done
-Thread 17: 100% done
-Thread 6: 100% done
-Thread 12: 100% done
-Thread 15: 100% done
-Thread 19: 100% done
-Thread 3: 100% done
 Thread 5: 100% done
-Thread 14: 100% done
+Thread 18: 100% done
+Thread 12: 100% done
+Thread 3: 100% done
+Thread 19: 100% done
+Thread 0: 100% done
+Thread 11: 100% done
+Thread 15: 100% done
+Thread 8: 100% done
+Thread 9: 100% done
+Thread 2: 100% done
+Thread 10: 100% done
+Thread 17: 100% done
+Thread 13: 100% done
+Thread 7: 100% done
+Thread 4: 100% done
+Thread 6: 100% done
 Printing info for Distribution 1
 Printing info for Distribution 6
 Printing info for Distribution 2
 Printing info for Distribution 7
 Printing info for Distribution 3
 Printing info for Distribution 8
-Printing info for Distribution 4
 Printing info for Distribution 9
+Printing info for Distribution 4
 Printing info for Distribution 5
 Printing info for Distribution 10
-time taken 592ms
+time taken 520ms
 
