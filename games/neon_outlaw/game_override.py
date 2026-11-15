@@ -40,7 +40,7 @@ class GameStateOverride(GameExecutables):
         for reel in range(self.config.num_reels):
             for row in range(self.config.num_rows[reel]):
                 sym = self.board[reel][row]
-                if len(self.sticky_wilds) < 6 and sym.name == "W": self.sticky_wilds[(reel, row)] = sym.get_attribute("multiplier")
+                if len(self.sticky_wilds) < 10 and sym.name == "W": self.sticky_wilds[(reel, row)] = sym.get_attribute("multiplier")
     def place_sticky_wilds(self):
         if not hasattr(self, "sticky_wilds"): return
         for (reel, row), mult in self.sticky_wilds.items():

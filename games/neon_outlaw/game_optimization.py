@@ -202,15 +202,6 @@ class OptimizationSetup:
                     bias_weights=[0.5],
                 ).return_dict(),
             },
-            "max_or_nothing": {
-                "conditions": {
-                    "wincap": ConstructConditions(rtp=0.965, av_win=wincaps["max_or_nothing"]).return_dict(),
-                    "0": ConstructConditions(rtp=0, av_win=0.0, search_conditions=0).return_dict(),
-                },
-                "scaling": ConstructScaling([]).return_dict(),
-                "parameters": ConstructParameters(num_show=5000, num_per_fence=10000, min_m2m=4, max_m2m=8, pmb_rtp=1.0, sim_trials=5000, test_spins=[10, 20, 50], test_weights=[0.6, 0.2, 0.2], score_type="rtp").return_dict(),
-                "distribution_bias": ConstructFenceBias(applied_criteria=["wincap"], bias_ranges=[(1.0, 2.0)], bias_weights=[0.5]).return_dict(),
-            },
                 
             
         }
